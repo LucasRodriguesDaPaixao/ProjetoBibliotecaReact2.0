@@ -1,0 +1,54 @@
+
+{
+  "book":
+  [
+    {
+        "id": 1,
+        "Autor": "Daniel Osmose",
+        "Título": "Vida além mar",
+        "Publicadora": "Vida LTDA",
+        "Preco": "35,00",
+        "Gênero": "Saúde, Informativo"
+    },
+    {
+        "id": 2,
+        "Autor": "Fugislindo Dente",
+        "Título": "Beleza para que te quero",
+        "Publicadora": "Grupo REDE",
+        "Preco": "23,70",
+        "Gênero": "Bem estar"
+    },
+    {
+        "id": 3,
+        "Autor": "Fragâncio de Melo",
+        "Título": "O cheiro da rosa",
+        "Publicadora": "Editora Cravo",
+        "Preco": "35,00",
+        "Gênero": "Românce"
+    },
+    {
+        "id": 4,
+        "Autor": "Mario Vulto",
+        "Título": "O mundo atrás do armário",
+        "Publicadora": "IKEA",
+        "Preco": "24,00",
+        "Gênero": "Fantasia"
+    },
+    {
+        "id": 5,
+        "Autor": "Vando Cândido",
+        "Título": "Bactérias, um inimigo invisível",
+        "Publicadora": "Saúde LTDA",
+        "Preco": "26,00",
+        "Gênero": "Saúde, Terror"
+    },
+    { 
+        "id": 6,
+        "Autor": "Cláudia Gray",
+        "Título": "Star Wars - Estrelas Perdidas",
+        "Publicadora": "Disney Publishing Worldwide",
+        "Preco": "35,00",
+        "Gênero": "Romance, Ficção Científica, Ficção Juvenil"
+    }
+  ]
+}

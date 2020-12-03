@@ -1,0 +1,52 @@
+{
+  "book": [
+    {
+      "title": "Vida além mar",
+      "autor": "Daniel Osmose",
+      "publisher": "Vida LTDA",
+      "price": "R$: 35,00",
+      "category": "[\n  \"Saúde\",\n  \"Informativo\"\n]",
+      "id": 1
+    },
+    {
+      "title": "Beleza para que te quero",
+      "autor": "Fugislindo Dente",
+      "publisher": "Grupo REDE",
+      "price": "R$: 23,70",
+      "category": "[\n  \"Bem estar\"\n]",
+      "id": 2
+    },
+    {
+      "title": "O cheiro da Rosa",
+      "autor": "Fragâncio de Melo",
+      "publisher": "Editora Cravo",
+      "price": "R$: 35,00",
+      "category": "[\n  \"Românce\",\n  \"Ficção Juvenil\"\n]",
+      "id": 3
+    },
+    {
+      "title": "O mundo atrás do armário",
+      "autor": "Mario Vulto",
+      "publisher": "IKEA",
+      "price": "R$: 24,00",
+      "category": "[\n  \"Fantasia\"\n]",
+      "id": 4
+    },
+    {
+      "title": "Bactérias, um inimigo invisível",
+      "autor": "Vando Cândido",
+      "publisher": "Saúde LTDA",
+      "price": "R$: 26,00",
+      "category": "[\n  \"Saúde\",\n  \"Terror\"\n]",
+      "id": 5
+    },
+    {
+      "title": "Star Wars - Estrelas Perdidas",
+      "autor": "Cláudia Gray",
+      "publisher": "Disney Publishing WorldWide",
+      "price": "R$: 35,00",
+      "category": "[\n  \"Românce\",\n  \"Ficção cientifica\",\n  \"Ficção Juvenil\"\n]",
+      "id": 6
+    }
+  ]
+}

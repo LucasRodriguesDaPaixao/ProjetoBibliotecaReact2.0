@@ -1,0 +1,22 @@
+.navbar.navbar-expand-md{
+    background-color: #00a000;
+    
+}
+
+.navbar-brand{
+    color: white !important;
+
+}
+
+.nav-link{
+    font-size: 20px;
+    color: white !important;
+    text-align: center;
+}
+
+.navbar-brand.mx-auto{
+    text-align: center;
+    font-size: 30px;
+    
+}
+    
